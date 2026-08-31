@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2026-08-28T18:57:46Z",
+    "level": "INFO",
+    "event": "predict_start",
+    "request_id": "6d765cde",
+    "model": "yolov8n.pt",
+    "confidence": 0.3
+  },
+  {
+    "timestamp": "2026-08-28T18:57:48Z",
+    "level": "INFO",
+    "event": "predict_complete",
+    "request_id": "6d765cde",
+    "model": "yolov8n.pt",
+    "detections": 2,
+    "inference_ms": 2005.47,
+    "image_size": "1280x720"
+  }
+]
